@@ -1,6 +1,6 @@
 {
   "name": "@fujia/check-path",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Check if a path exists.",
   "scripts": {
     "build": "rimraf lib && rollup -c rollup.config.js",
